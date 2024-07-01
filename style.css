@@ -90,7 +90,7 @@ html {
 
 .bg-container {
   padding: 0 2rem;
-  margin: 4rem 0;
+  margin: 2rem 0;
   color: var(--color--white);
   align-items: flex-start;
   justify-content: space-between;
@@ -293,7 +293,6 @@ i {
   height: 50rem;
   gap: 2rem;
   padding: 2rem;
-  box-shadow: 1px 2px 5px rgb(0, 0, 0, 0.2);
 }
 .new-member::-webkit-scrollbar {
   width: 0.5rem;
